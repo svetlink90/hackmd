@@ -10,13 +10,13 @@
 
 * Includes 2 signatories on DAO Coalition's multisig  (likely kali.gg multisig)
 
-* *Crypto advocacy* is an important grant fulfillment area of expertise for LexDAO, and spending LexDAO's **~$50000** GR14 *crypto advocacy* grant money on a collaboration with DAO Coalition fits within Gitcoin's GR15 definition of *crypto advocacy*
+* *Crypto advocacy* is an important grant fulfillment area of expertise for LexDAO, and spending a fraction of LexDAO's **~$50000** GR14 *crypto advocacy* grant money on a collaboration with DAO Coalition fits within Gitcoin's GR15 definition of *crypto advocacy*
 
 ### phase I 'startup package'
 
 **$24,500** to
 
-* [ ] establish LLC with established firm
+* [ ] establish LLC with well-respected firm
 
 * [ ] draw up bylaws
  
@@ -24,7 +24,7 @@
 
 * [ ] set up the website
 
-* [ ] **$5000** of LexDAO *crypto advocacy* work for DAO Coalition
+* [ ] **$5000** of *crypto advocacy* work in LexDAO for DAO Coalition
 
 ### phase II
 
