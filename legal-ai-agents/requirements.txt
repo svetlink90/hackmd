@@ -1,0 +1,60 @@
+# Core AI and ML libraries
+openai>=1.3.0
+anthropic>=0.7.0
+langchain>=0.1.0
+langchain-community>=0.0.10
+transformers>=4.35.0
+torch>=2.0.0
+sentence-transformers>=2.2.2
+
+# Document processing
+pypdf2>=3.0.1
+python-docx>=0.8.11
+pdfplumber>=0.9.0
+pymupdf>=1.23.0
+python-magic>=0.4.27
+
+# Text processing and NLP
+nltk>=3.8.1
+spacy>=3.7.0
+textstat>=0.7.3
+fuzzywuzzy>=0.18.0
+python-levenshtein>=0.20.9
+
+# Web scraping and APIs
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+selenium>=4.15.0
+
+# Data handling
+pandas>=2.1.0
+numpy>=1.24.0
+sqlite3  # Built-in Python module
+
+# Web framework for deployment
+flask>=3.0.0
+fastapi>=0.104.0
+uvicorn>=0.24.0
+
+# Configuration and environment
+python-dotenv>=1.0.0
+pydantic>=2.5.0
+pyyaml>=6.0.1
+
+# Testing
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+pytest-mock>=3.12.0
+
+# Logging and monitoring
+loguru>=0.7.2
+
+# Utilities
+tqdm>=4.66.0
+click>=8.1.7
+rich>=13.7.0
+
+# Optional: For advanced features
+chromadb>=0.4.0  # Vector database
+faiss-cpu>=1.7.4  # Vector similarity search
+elasticsearch>=8.11.0  # Full-text search (optional)
