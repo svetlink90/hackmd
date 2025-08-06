@@ -25,6 +25,7 @@ python-levenshtein>=0.20.9
 requests>=2.31.0
 beautifulsoup4>=4.12.0
 selenium>=4.15.0
+aiohttp>=3.8.0
 
 # Data handling
 pandas>=2.1.0
