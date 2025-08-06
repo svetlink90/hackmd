@@ -54,6 +54,7 @@ loguru>=0.7.2
 tqdm>=4.66.0
 click>=8.1.7
 rich>=13.7.0
+schedule>=1.2.0
 
 # Optional: For advanced features
 chromadb>=0.4.0  # Vector database

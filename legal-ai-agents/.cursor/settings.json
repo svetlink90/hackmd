@@ -1,0 +1,39 @@
+{
+  "python.defaultInterpreterPath": "./venv/bin/python",
+  "python.terminal.activateEnvironment": true,
+  "python.linting.enabled": true,
+  "python.linting.pylintEnabled": true,
+  "python.formatting.provider": "black",
+  "python.analysis.typeCheckingMode": "basic",
+  
+  "files.associations": {
+    "*.md": "markdown",
+    "*.json": "json",
+    "*.py": "python"
+  },
+  
+  "files.exclude": {
+    "**/__pycache__": true,
+    "**/*.pyc": true,
+    "**/.pytest_cache": true,
+    "**/venv": false,
+    "**/data": false,
+    "**/.git": true
+  },
+  
+  "terminal.integrated.defaultProfile.osx": "bash",
+  "terminal.integrated.defaultProfile.linux": "bash",
+  
+  "editor.rulers": [88, 120],
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": true
+  },
+  
+  "search.exclude": {
+    "**/venv": true,
+    "**/__pycache__": true,
+    "**/data/sanctions": true,
+    "**/*.log": true
+  }
+}
